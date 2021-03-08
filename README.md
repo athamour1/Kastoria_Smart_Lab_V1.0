@@ -1,4 +1,4 @@
-# Kastotria Smart Lab
+# Kastoria Smart Lab
 Description: This is an IoT Project that has purpose to modernization of our research laboratory here in IEEE SB in Kastoria.
 
 ## Development
